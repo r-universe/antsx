@@ -1,4 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/antsx/antsx.r-universe.dev
 	branch = HEAD
+[submodule "ANTsR"]
+	path = ANTsR
+	url = https://github.com/ANTsX/ANTsR
+[submodule "ANTsRCore"]
+	path = ANTsRCore
+	url = https://github.com/ANTsX/ANTsRCore
+[submodule "ANTsRNet"]
+	path = ANTsRNet
+	url = https://github.com/ANTsX/ANTsRNet
+[submodule "ITKR"]
+	path = ITKR
+	url = https://github.com/ANTsX/ITKR
